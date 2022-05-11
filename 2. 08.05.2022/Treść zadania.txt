@@ -1,0 +1,6 @@
+1. Interfejs programistyczny komponentu (-ów),
+
+2. GUI komponentu (-ów),
+
+3. Struktura blokowa komponentu (- ów)
+

@@ -1,0 +1,13 @@
+﻿Skład grupy:Piotr Sawala
+
+---------------------------------------------------------------------
+
+Dnia 08-05-2022 wykonano:
+
+1. Interfejs programistyczny komponentu.
+
+2. GUI komponentu.
+
+3. Struktura blokowa komponentu.
+
+4. Schemat blokowy
